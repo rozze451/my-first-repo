@@ -1,3 +1,5 @@
-Hello from main
+
+Hello from main and
+ conflict-demo
 New line
 Another line
